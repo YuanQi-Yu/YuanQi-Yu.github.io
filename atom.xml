@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-01-23T13:52:59.893Z</updated>
+  <updated>2021-01-23T14:16:33.633Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日报-1月23日</title>
+    <link href="http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/"/>
+    <id>http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/</id>
+    <published>2021-01-23T15:00:00.000Z</published>
+    <updated>2021-01-23T14:16:33.633Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是计划实行的第一天！大家都元气满满！</p><a id="more"></a><h2 id="任务达人"><a href="#任务达人" class="headerlink" title="任务达人"></a>任务达人</h2><p>​    L. 完成任务：<code>物理</code> <code>通用技术</code> <code>化学</code> <code>英语</code> <code>语文</code></p><h2 id="时长达人"><a href="#时长达人" class="headerlink" title="时长达人"></a>时长达人</h2><p>​    J. 学习时数：<code>14</code></p><h2 id="完成达人"><a href="#完成达人" class="headerlink" title="完成达人"></a>完成达人</h2><p>​    Q. 计划完成率：<code>1</code></p><p><img src="https://i.loli.net/2021/01/23/aq8hlG2TNOs1Zfu.png" alt="01.23.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是计划实行的第一天！大家都元气满满！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Studying" scheme="http://yoursite.com/categories/Studying/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="阶段性反思" scheme="http://yoursite.com/tags/%E9%98%B6%E6%AE%B5%E6%80%A7%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="学习小组" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
+    
+  </entry>
   
   <entry>
     <title>数学公式测试</title>
