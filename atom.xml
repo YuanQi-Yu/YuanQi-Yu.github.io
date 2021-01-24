@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-01-23T14:16:33.633Z</updated>
+  <updated>2021-01-24T10:08:42.171Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>自己乱学</title>
+    <link href="http://yoursite.com/2021/01/24/2021.01.24%20%E7%89%A9%E7%90%86/"/>
+    <id>http://yoursite.com/2021/01/24/2021.01.24%20%E7%89%A9%E7%90%86/</id>
+    <published>2021-01-23T16:18:00.000Z</published>
+    <updated>2021-01-24T10:08:42.171Z</updated>
+    
+    <content type="html"><![CDATA[<p>物理自学 矢量 2021.01.24</p><a id="more"></a><p><img src="https://i.loli.net/2021/01/24/CSq74zDXiV6N2uE.png" alt="2021.01.24 物理.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;物理自学 矢量 2021.01.24&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Studying" scheme="http://yoursite.com/categories/Studying/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="物理" scheme="http://yoursite.com/tags/%E7%89%A9%E7%90%86/"/>
+    
+      <category term="自学" scheme="http://yoursite.com/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+      <category term="草稿" scheme="http://yoursite.com/tags/%E8%8D%89%E7%A8%BF/"/>
+    
+      <category term="矢量" scheme="http://yoursite.com/tags/%E7%9F%A2%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日报-1月23日</title>
     <link href="http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/"/>
     <id>http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/</id>
     <published>2021-01-23T15:00:00.000Z</published>
-    <updated>2021-01-23T14:16:33.633Z</updated>
+    <updated>2021-01-23T14:36:54.737Z</updated>
     
     <content type="html"><![CDATA[<p>今天是计划实行的第一天！大家都元气满满！</p><a id="more"></a><h2 id="任务达人"><a href="#任务达人" class="headerlink" title="任务达人"></a>任务达人</h2><p>​    L. 完成任务：<code>物理</code> <code>通用技术</code> <code>化学</code> <code>英语</code> <code>语文</code></p><h2 id="时长达人"><a href="#时长达人" class="headerlink" title="时长达人"></a>时长达人</h2><p>​    J. 学习时数：<code>14</code></p><h2 id="完成达人"><a href="#完成达人" class="headerlink" title="完成达人"></a>完成达人</h2><p>​    Q. 计划完成率：<code>1</code></p><p><img src="https://i.loli.net/2021/01/23/aq8hlG2TNOs1Zfu.png" alt="01.23.png"></p>]]></content>
     
@@ -32,7 +63,7 @@
     </summary>
     
     
-      <category term="Studying" scheme="http://yoursite.com/categories/Studying/"/>
+      <category term="寒假学习小组" scheme="http://yoursite.com/categories/%E5%AF%92%E5%81%87%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
     
     
       <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
