@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-01-24T10:13:34.552Z</updated>
+  <updated>2021-01-24T10:28:16.783Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2021/01/24/2021.01.24%20%E7%89%A9%E7%90%86/"/>
     <id>http://yoursite.com/2021/01/24/2021.01.24%20%E7%89%A9%E7%90%86/</id>
     <published>2021-01-23T16:18:00.000Z</published>
-    <updated>2021-01-24T10:13:34.552Z</updated>
+    <updated>2021-01-24T10:28:16.783Z</updated>
     
     <content type="html"><![CDATA[<p>物理自学 矢量 2021.01.24</p><a id="more"></a><p><img src="https://i.loli.net/2021/01/24/CSq74zDXiV6N2uE.png" alt="2021.01.24 物理.png"></p>]]></content>
     
@@ -45,6 +45,8 @@
     
       <category term="矢量" scheme="http://yoursite.com/tags/%E7%9F%A2%E9%87%8F/"/>
     
+      <category term="图片" scheme="http://yoursite.com/tags/%E5%9B%BE%E7%89%87/"/>
+    
   </entry>
   
   <entry>
@@ -52,7 +54,7 @@
     <link href="http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/"/>
     <id>http://yoursite.com/2021/01/23/%E6%97%A5%E6%8A%A5-1%E6%9C%8823%E6%97%A5/</id>
     <published>2021-01-23T15:00:00.000Z</published>
-    <updated>2021-01-24T10:13:23.318Z</updated>
+    <updated>2021-01-24T10:27:38.559Z</updated>
     
     <content type="html"><![CDATA[<p>今天是计划实行的第一天！大家都元气满满！</p><a id="more"></a><h2 id="任务达人"><a href="#任务达人" class="headerlink" title="任务达人"></a>任务达人</h2><p>​    L. 完成任务：<code>物理</code> <code>通用技术</code> <code>化学</code> <code>英语</code> <code>语文</code></p><h2 id="时长达人"><a href="#时长达人" class="headerlink" title="时长达人"></a>时长达人</h2><p>​    J. 学习时数：<code>14</code></p><h2 id="完成达人"><a href="#完成达人" class="headerlink" title="完成达人"></a>完成达人</h2><p>​    Q. 计划完成率：<code>1</code></p><p><img src="https://i.loli.net/2021/01/23/aq8hlG2TNOs1Zfu.png" alt="01.23.png"></p>]]></content>
     
@@ -66,11 +68,11 @@
       <category term="Projects" scheme="http://yoursite.com/categories/Projects/"/>
     
     
+      <category term="Project WV" scheme="http://yoursite.com/tags/Project-WV/"/>
+    
       <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="阶段性反思" scheme="http://yoursite.com/tags/%E9%98%B6%E6%AE%B5%E6%80%A7%E5%8F%8D%E6%80%9D/"/>
-    
-      <category term="学习小组" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
     
   </entry>
   
@@ -135,7 +137,7 @@
     <link href="http://yoursite.com/2021/01/22/IMGtest/"/>
     <id>http://yoursite.com/2021/01/22/IMGtest/</id>
     <published>2021-01-21T16:00:00.000Z</published>
-    <updated>2021-01-22T06:55:14.192Z</updated>
+    <updated>2021-01-24T10:28:00.529Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/01/22/g3jafl6osGAe8nr.gif" alt="iUxMqO.gif"></p>]]></content>
     
@@ -153,7 +155,9 @@
       <category term="Tests" scheme="http://yoursite.com/categories/Tests/"/>
     
     
-      <category term="Image" scheme="http://yoursite.com/tags/Image/"/>
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="图片" scheme="http://yoursite.com/tags/%E5%9B%BE%E7%89%87/"/>
     
   </entry>
   
@@ -177,6 +181,33 @@
     
     
       <category term="Project WV" scheme="http://yoursite.com/tags/Project-WV/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>完结撒花</title>
+    <link href="http://yoursite.com/2020/11/30/%E6%95%B0%E5%AD%A6%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%81%9A%E5%AE%8C%E5%95%A6%EF%BC%81/"/>
+    <id>http://yoursite.com/2020/11/30/%E6%95%B0%E5%AD%A6%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%81%9A%E5%AE%8C%E5%95%A6%EF%BC%81/</id>
+    <published>2020-11-29T16:00:00.000Z</published>
+    <updated>2021-01-25T13:17:00.475Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/01/25/PCuzKmYo7wIlq3x.png" alt="image.png"></p><a id="more"></a><p>寒假数学作业写完啦！:)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/01/25/PCuzKmYo7wIlq3x.png&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Moments" scheme="http://yoursite.com/categories/Moments/"/>
+    
+    
+      <category term="图片" scheme="http://yoursite.com/tags/%E5%9B%BE%E7%89%87/"/>
+    
+      <category term="数学" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
