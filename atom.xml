@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-01-30T12:55:36.739Z</updated>
+  <updated>2021-01-31T12:47:31.969Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>错题本 2021-01-31</title>
+    <link href="http://yoursite.com/2021/01/31/%E9%94%99%E9%A2%98%E6%9C%AC%202021-01-31/"/>
+    <id>http://yoursite.com/2021/01/31/%E9%94%99%E9%A2%98%E6%9C%AC%202021-01-31/</id>
+    <published>2021-01-31T13:00:00.000Z</published>
+    <updated>2021-01-31T12:47:31.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    1. 如图，在$\triangle ABC$中，$AB = 2$，$AC = 3$，$BC$边的垂直平分线分别与$BC$，$AC$交于点$D$，若$P$是线段$DE$上的动点，则$\vec{PA} \cdot \vec{BC}$的值</p><p>​        A. 与角$A$有关，且与点$P$的位置有关</p><p>​        B. 与角$A$有关，且与点$P$的位置无关</p><p>​        C. 与角$A$无关，且与点$P$的位置有关</p><p>​        D. 与角$A$无关，且与点$P$的位置无关</p><p><img src="https://i.loli.net/2021/01/31/kea5wcIH3pSLgiU.png" alt="image.png"></p><a id="more"></a><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    1. 如图，在$\triangle ABC$中，$AB = 2$，$AC = 3$，$BC$边的垂直平分线分别与$BC$，$AC$交于点$D$，若$P$是线段$DE$上的动点，则$\vec{PA} \cdot \vec{BC}$的值&lt;/p&gt;
+&lt;p&gt;​        A. 与角$A$有关，且与点$P$的位置有关&lt;/p&gt;
+&lt;p&gt;​        B. 与角$A$有关，且与点$P$的位置无关&lt;/p&gt;
+&lt;p&gt;​        C. 与角$A$无关，且与点$P$的位置有关&lt;/p&gt;
+&lt;p&gt;​        D. 与角$A$无关，且与点$P$的位置无关&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/01/31/kea5wcIH3pSLgiU.png&quot; alt=&quot;image.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Studying" scheme="http://yoursite.com/categories/Studying/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="数学" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="错题本" scheme="http://yoursite.com/tags/%E9%94%99%E9%A2%98%E6%9C%AC/"/>
+    
+      <category term="高考" scheme="http://yoursite.com/tags/%E9%AB%98%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
     <title>错题本 2021-01-30</title>
     <link href="http://yoursite.com/2021/01/30/%E9%94%99%E9%A2%98%E6%9C%AC%202021-01-30/"/>
     <id>http://yoursite.com/2021/01/30/%E9%94%99%E9%A2%98%E6%9C%AC%202021-01-30/</id>
     <published>2021-01-30T13:00:00.000Z</published>
-    <updated>2021-01-30T12:55:36.739Z</updated>
+    <updated>2021-01-30T12:56:22.676Z</updated>
     
     <content type="html"><![CDATA[<p>​    1. 下列命题的否定为假命题的是</p><p>​        A. $ \exists x_0 \in \mathbb{R}, x_0^2 + 4x_0 + 6 \leq 0$</p><p>​        B. 正切函数  $y = \tan x$ 的定义域为 $\mathbb{R}$</p><p>​        C. 函数 $y = \frac{1}{x}$ 的单调递减区间为 $(-\infty,0) \cup (0,+\infty)$</p><p>​        D. 矩形的对角线相等且平分</p><a id="more"></a><hr><p>​    2. 函数 $f(x) = \frac{2^x + 2^{-x}}{3x\sqrt{25-x^2}}$ 的图像大致为</p><p><img src="https://i.loli.net/2021/01/30/79S84dQKPvLmJIc.png" alt="image.png"></p><hr><p>​    3. 已知双曲线 $\frac{x^2}{2}-\frac{y^2}{2}=1$的左右焦点分别为$F<em>1$、$F<em>2$ ，点$P$在状曲线的右半支上，点 $Q(0,2)$，当 $|PQ|+|PF|$ 的值最小时，点 $P$ 的坐标为__</em></em>.</p><hr><p>​    4. 某高二年级在期末考试之后为了了解学生学习物理的情况，抽取$10$名成绩在$60$ ~ $90$分（满分为100分）之间的学生进行调查，将这10名同学的成绩分成了6段：$[60, 65),[65,70),[70,75),[75,80),[80,85),[85,90]$,绘成频率直方图，如图所示，从成绩在$[70,80)$的学生中任抽取2人，则成绩在[75,80)间的学生恰好有一人的概率是<em>__</em>.</p><p><img src="https://i.loli.net/2021/01/30/nwaqt9BVpOXd7xU.png" alt="image.png"></p><hr><p>​    5. 已知函数$f(x)$为定义在$\mathbb{R}$上且图像连续的偶函数，满足$xf’(x)&gt;0$或$xf’(x)&lt;0$ 在 $(-\infty,0)\cup(0,+\infty)$ 恒成立.若把函数 $y = f(x)$ 向右平移$4$个单位可得到函数$y = g(x)$，则方程$g(x) = g(2 - \frac{1}{x+1})$ 的所有根之和为<em>__</em>.</p><hr><p>​    6. 已知直线 $l: ax+by=0$，圆 $4x^2+4y^2+8ax+8ay+3a^2+3b^2 = 0$，则$直线l$与$圆C$的位置关系是<em>__</em>.</p><hr><p>​    7. 已知等比数列${a<em>n}$的前 $n$ 项和为 $S_n$ ，公比 $q&gt;0$ ，$a_1 = 1$ ，$a_3 = a_2 + 2$ ，若数列 $ { b_n } $ 的前 $n$ 项和为 $T_n$ ，$a</em>{n+1} = b<em>nS</em>{n+1}S_n$ ，求数列 ${b_n}$ 的前 $n$ 项和 $T_n$.</p><hr><p><img src="https://i.loli.net/2021/01/30/UtEis95eAvojyqd.png" alt="image.png"></p>]]></content>
     
